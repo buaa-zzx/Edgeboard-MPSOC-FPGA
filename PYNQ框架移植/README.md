@@ -12,7 +12,7 @@ PYNQ镜像由于较大上传至网盘：
 链接：https://pan.baidu.com/s/1lBP6nnaLF8-04k9XqTDxXQ 
 提取码：77e5 
 
-新增米尔电子ZU5系列PYNQ镜像：  
+新增米尔电子ZU5系列Edgeboard板卡PYNQ镜像：  
 链接：https://pan.baidu.com/s/1H3cWOVMc4JkFxXc1QzmWOw 
 提取码：1zs3 
 
